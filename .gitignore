@@ -1,0 +1,14 @@
+# aoc_tiles section
+.aoc_tiles/*
+!.aoc_tiles/tiles/
+
+# ignore any txt files
+*.txt
+*.s*
+*.ps1
+
+# ignore all __pycache__ directories
+**/__pycache__
+
+# ignore ide config
+.idea/**
