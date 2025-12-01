@@ -10,5 +10,9 @@
 # ignore all __pycache__ directories
 **/__pycache__
 
+# ignore all venvs
+**/.venv
+**/.venv*
+
 # ignore ide config
 .idea/**
