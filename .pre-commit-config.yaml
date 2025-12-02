@@ -12,5 +12,5 @@ repos:
         args:
           - --overwrite-year=2025
           - --auto-add-tiles-to-git=amend
-          - --what-to-show-on-right-side=checkmark
+          - --what-to-show-on-right-side=time_and_rank
           # - --language-sorting=jl,kt,py,rs
