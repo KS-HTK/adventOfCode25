@@ -2,7 +2,6 @@
 
 import os
 from time import perf_counter
-from itertools import combinations
 
 
 def profiler(method):
