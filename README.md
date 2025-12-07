@@ -5,7 +5,7 @@ The tasks from 2025 have been solved in [python](https://python.org/).
 
 <!-- AOC TILES BEGIN -->
 <h1 align="center">
-  2025 - 12 ⭐ - Python
+  2025 - 14 ⭐ - Python
 </h1>
 <a href="day01/day01.py">
   <img src=".aoc_tiles/tiles/2025/01.png" width="161px">
@@ -24,6 +24,9 @@ The tasks from 2025 have been solved in [python](https://python.org/).
 </a>
 <a href="day06/day06.py">
   <img src=".aoc_tiles/tiles/2025/06.png" width="161px">
+</a>
+<a href="day07/day07.py">
+  <img src=".aoc_tiles/tiles/2025/07.png" width="161px">
 </a>
 <!-- AOC TILES END -->
 
