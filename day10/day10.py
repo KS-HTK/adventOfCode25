@@ -16,17 +16,6 @@ def profiler(method):
         return ret
 
     return profiler_method
-    
-
-def encode(vec: tuple[int, ...]) -> int:
-    """Encode a vector of counters into a single integer.
-    limits[i] = target[i]  (the maximum value for that component)."""
-    code = 0
-    mul = 1
-    for v in vec:
-        code += v * mul
-        mul *= 1000
-    return code
 
 
 class Machine():
